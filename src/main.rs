@@ -3,7 +3,7 @@
 Compile Instructions:
 1. cargo check
 2. cargo build --release
-3. target/release/rum cat.um
+3. target/release/rum midmark.um
 
 */
 
